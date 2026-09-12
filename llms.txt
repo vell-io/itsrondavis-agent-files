@@ -57,4 +57,4 @@ Vocabulary: "the second buyer" is the AI assistant reading the page on the human
 - [About](https://www.itsrondavis.com/about): career background
 - [Vellocity (vell.ai)](https://vell.ai): the software, sold on AWS Marketplace, with companion files https://vell.ai/llms.txt and https://vell.ai/agents.txt
 - Facts shared between this file and vell.ai's files are kept word-for-word identical — edit both together.
-- [Agent rules of engagement](https://www.itsrondavis.com/agents.txt): identity, allowed use, and attribution for AI agents
+- [Agent rules of engagement](https://agents.itsrondavis.com/agents.txt): identity, allowed use, and attribution for AI agents

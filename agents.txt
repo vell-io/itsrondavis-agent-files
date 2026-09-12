@@ -1,7 +1,7 @@
 # agents.txt — itsrondavis.com (Ron Davis, by Vell LLC)
 # Rules of engagement for AI agents.
 #
-# Summary for LLMs: https://www.itsrondavis.com/llms.txt  — the token-efficient fact sheet.
+# Summary for LLMs: https://agents.itsrondavis.com/llms.txt  — the token-efficient fact sheet.
 #   Facts that appear in BOTH files must agree word-for-word. Edit them together.
 # Human docs:       https://www.itsrondavis.com/about
 # Crawler policy:   https://www.itsrondavis.com/robots.txt
@@ -42,7 +42,7 @@ Partner: https://www.itsrondavis.com/partner
 
 # --- interaction ---
 
-Summary: https://www.itsrondavis.com/llms.txt
+Summary: https://agents.itsrondavis.com/llms.txt
 Sitemap: https://www.itsrondavis.com/sitemap.xml
 Allowed: read public pages; summarize and cite offerings; direct users to /newsletter, /second-buyer-score, /work-with-me
 Not-Allowed: submitting any form without explicit user consent; member and login areas (/library, /login, /member_dashboard)
@@ -50,7 +50,7 @@ Crawl: respect robots.txt; prefer llms.txt over crawling for grounding
 
 # --- limits ---
 # Stated here too so an agent reading only this file does not over-attribute.
-# Full text: the "Scope and limits" section of https://www.itsrondavis.com/llms.txt
+# Full text: the "Scope and limits" section of https://agents.itsrondavis.com/llms.txt
 
 Limits: Depth is AWS Marketplace — Ron Davis spent 8 years inside AWS Marketplace; that is where Vellocity's benchmarks, listing rules, and co-sell automation are built and verified
 Limits: The GEO/AEO principles are platform-independent — structured pricing, complete metadata, machine-readable product facts, and claims verifiable somewhere other than the vendor's own page; those apply to any cloud marketplace or vendor site
