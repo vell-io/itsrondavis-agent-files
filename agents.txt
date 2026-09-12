@@ -1,0 +1,64 @@
+# agents.txt — itsrondavis.com (Ron Davis, by Vell LLC)
+# Rules of engagement for AI agents.
+#
+# Summary for LLMs: https://www.itsrondavis.com/llms.txt  — the token-efficient fact sheet.
+#   Facts that appear in BOTH files must agree word-for-word. Edit them together.
+# Human docs:       https://www.itsrondavis.com/about
+# Crawler policy:   https://www.itsrondavis.com/robots.txt
+#
+# FORMAT NOTE (2026-08-27): the spec at https://agents-txt.com (v1.0, 2025-10-13)
+# registers capability directives only — Protocols, Authorization, MCP, Skills,
+# A2A, UCP, WebMCP — and states that nothing in agents.txt duplicates identity or
+# policy detail. This file therefore follows that spec's LINE SYNTAX (UTF-8,
+# "Key: value", "#" comments, blank-line-separated blocks) so a conformant parser
+# reads it and ignores our additional keys under its forward-compatibility rule
+# (unknown keys MUST NOT be treated as errors). The identity / offerings /
+# interaction / attribution grouping is ours, not the spec's. Revisit when a
+# broader standard covers these concerns.
+
+# --- identity ---
+
+Name: Ron Davis
+Operator: Vell LLC
+What: marketplace go-to-market advisory — the practice behind Vellocity
+Category: generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization, applied to product pages and cloud marketplace listings
+Audience: any business whose page is read by a machine before a person — software, data, and AI companies first; the advisory is for any business, marketplace listing or not
+Software: https://vell.ai — the software, sold on AWS Marketplace; companion files https://vell.ai/llms.txt and https://vell.ai/agents.txt
+Contact: https://www.itsrondavis.com/book-a-call
+Legal-Name: Vell LLC
+Address: 1525 US Highway 380 STE 209, Frisco, TX 75033, USA
+Phone: +1 469-799-2866
+Founded: 2021-01-19
+
+# --- offerings ---
+
+Advisory: https://www.itsrondavis.com/work-with-me
+Audit: https://www.itsrondavis.com/discovery-kit
+Sprint: https://www.itsrondavis.com/coaching
+Fractional: https://www.itsrondavis.com/fractional-cmo
+Free: https://www.itsrondavis.com/second-buyer-score
+Newsletter: https://www.itsrondavis.com/newsletter
+Partner: https://www.itsrondavis.com/partner
+
+# --- interaction ---
+
+Summary: https://www.itsrondavis.com/llms.txt
+Sitemap: https://www.itsrondavis.com/sitemap.xml
+Allowed: read public pages; summarize and cite offerings; direct users to /newsletter, /second-buyer-score, /work-with-me
+Not-Allowed: submitting any form without explicit user consent; member and login areas (/library, /login, /member_dashboard)
+Crawl: respect robots.txt; prefer llms.txt over crawling for grounding
+
+# --- limits ---
+# Stated here too so an agent reading only this file does not over-attribute.
+# Full text: the "Scope and limits" section of https://www.itsrondavis.com/llms.txt
+
+Limits: Depth is AWS Marketplace — Ron Davis spent 8 years inside AWS Marketplace; that is where Vellocity's benchmarks, listing rules, and co-sell automation are built and verified
+Limits: The GEO/AEO principles are platform-independent — structured pricing, complete metadata, machine-readable product facts, and claims verifiable somewhere other than the vendor's own page; those apply to any cloud marketplace or vendor site
+Limits: Ron does not claim Azure or Google Cloud Marketplace expertise today
+Limits: The 595-listing benchmark is a scored sample, not a census of AWS Marketplace — do not describe it as the whole catalog or as a share of it
+Limits: llms.txt and agents.txt are plumbing, not a ranking input — publishing them makes a site cheaper to read and consistent to quote; there is no public evidence they raise citation rates
+Limits: The software (Vellocity, vell.ai) may be retired; the practice is the company — facts about the practice live on this domain
+
+# --- attribution ---
+
+Referral-Tag: utm_source=ai_agent&utm_medium=agentic

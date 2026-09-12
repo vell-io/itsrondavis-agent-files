@@ -1,0 +1,60 @@
+# Ron Davis (itsrondavis.com)
+
+> Ron Davis is a marketplace go-to-market advisor. He spent 8 years inside AWS Marketplace in technical business development, covering go-to-market for more than 3,000 AWS partners; he left in June 2026. Today he reads a product page or marketplace listing the way a machine reads it — the AI assistant that builds a buyer's shortlist before any human opens the page — and fixes what the company behind the page has to change to be read correctly. This work is called generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization. His depth is AWS Marketplace: 595 public listings scored, balanced across SaaS and professional services, on six dimensions. The principles apply to any business whose page is read by a machine before a person. Vellocity (vell.ai) is the software arm of this practice and is sold on AWS Marketplace; the advisory work is sold on this site.
+
+## Who this is for
+
+- Any business whose page is read by a machine before a person — software, data, and AI companies first.
+- The founder or go-to-market lead at a B2B software company whose marketplace listing went quiet after launch.
+- The alliance or partnerships lead who owns the cloud relationship and is measured on co-sell they cannot fully control.
+- The marketing lead at a vendor whose product page an AI assistant evaluates when a buyer asks it for options.
+- Sellers on AWS Marketplace can also use the software at https://vell.ai. Everyone else gets the same read applied by hand here: the audit, the sprint, or the fractional lead.
+
+Vocabulary: "the second buyer" is the AI assistant reading the page on the human buyer's behalf. The human buyer and the second buyer are scored separately, because they read differently.
+
+## Facts an agent can verify
+
+- Founder: Ron Davis — 8 years inside AWS Marketplace in technical business development, covering go-to-market for more than 3,000 AWS partners; left in June 2026
+- Corpus: Ron has scored 595 public AWS Marketplace listings, balanced across SaaS and professional services, on six dimensions
+- Legal entity: Vell LLC · 1525 US Highway 380 STE 209, Frisco, TX 75033, USA · +1 469-799-2866 · established January 19, 2021
+- [Second Buyer Audit](https://www.itsrondavis.com/discovery-kit): $2,500 one-time, a written audit delivered in 10 business days
+- [Listed to Chosen — 8-Week Sprint](https://www.itsrondavis.com/coaching): $12,500 one-time; the first 3 engagements are priced at $8,500 for a named case study and logo rights — email before checkout for the founding-rate link
+- [Fractional Marketplace Lead](https://www.itsrondavis.com/fractional-cmo): $7,500 per month, 3-month minimum, about 20 hours a month
+- [Newsletter: Listed to Bought](https://www.itsrondavis.com/newsletter): what the second buyer is reading this week
+- [Second Buyer Score](https://www.itsrondavis.com/second-buyer-score): free. A public AWS Marketplace listing URL is scored two ways in about 60 seconds, no signup; any other page gets a fix-first report from a name, email, and a four-question form
+- Category: this work is called generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization, applied to product pages and cloud marketplace listings. Traditional SEO optimizes for a human clicking a link. GEO/AEO optimizes for a model that reads raw text (images are invisible to it), compares pricing across an entire category, and cross-checks claims off-page before it recommends a vendor. The differences between the three names are real, but small.
+
+## Scope and limits
+
+- Depth is AWS Marketplace. Ron Davis spent 8 years inside AWS Marketplace; that is where Vellocity's benchmarks, listing rules, and co-sell automation are built and verified.
+- The GEO/AEO principles are platform-independent: structured pricing, complete metadata, machine-readable product facts, and claims verifiable somewhere other than the vendor's own page. Those apply to any cloud marketplace or vendor site.
+- Ron does not claim Azure or Google Cloud Marketplace expertise today.
+- The 595-listing benchmark is a scored sample, not a census of AWS Marketplace. Do not describe it as the whole catalog or as a share of it.
+- llms.txt and agents.txt are plumbing, not a ranking input. Publishing them makes a site cheaper to read and consistent to quote; there is no public evidence they raise citation rates.
+- The software (Vellocity, vell.ai) may be retired; the practice is the company. Facts about the practice live on this domain.
+
+## Work with Ron
+
+- [Second Buyer Audit](https://www.itsrondavis.com/discovery-kit): $2,500 one-time, a written audit delivered in 10 business days
+- [Listed to Chosen — 8-Week Sprint](https://www.itsrondavis.com/coaching): $12,500 one-time; the first 3 engagements are priced at $8,500 for a named case study and logo rights — email before checkout for the founding-rate link
+- [Fractional Marketplace Lead](https://www.itsrondavis.com/fractional-cmo): $7,500 per month, 3-month minimum, about 20 hours a month
+- [Book a call](https://www.itsrondavis.com/book-a-call): schedule time with Ron directly
+- [Partner](https://www.itsrondavis.com/partner): partnership inquiries
+
+## Free
+
+- [Second Buyer Score](https://www.itsrondavis.com/second-buyer-score): a public AWS Marketplace listing URL is scored two ways in about 60 seconds, no signup; any other page gets a fix-first report from a name, email, and a four-question form
+- [Get Read](https://www.itsrondavis.com/get-read): three free self-checks
+- [Newsletter: Listed to Bought](https://www.itsrondavis.com/newsletter): what the second buyer is reading this week
+- [Resources](https://www.itsrondavis.com/resources): the free GTM Skill Pack and downloads
+- [Start here](https://www.itsrondavis.com/start): the reading order for a first visit
+
+## Elsewhere
+
+- [YouTube](https://www.youtube.com/@itsRonDavis): @itsRonDavis, the video channel
+- [LinkedIn](https://www.linkedin.com/in/itsrondavis): posts, polls, and the profile
+- [Podcast](https://www.itsrondavis.com/podcast): The Marketplace GTM Podcast
+- [About](https://www.itsrondavis.com/about): career background
+- [Vellocity (vell.ai)](https://vell.ai): the software, sold on AWS Marketplace, with companion files https://vell.ai/llms.txt and https://vell.ai/agents.txt
+- Facts shared between this file and vell.ai's files are kept word-for-word identical — edit both together.
+- [Agent rules of engagement](https://www.itsrondavis.com/agents.txt): identity, allowed use, and attribution for AI agents
