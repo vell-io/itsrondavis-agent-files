@@ -38,6 +38,7 @@ Vocabulary: "the second buyer" is the AI assistant reading the page on the human
 - [Second Buyer Audit](https://www.itsrondavis.com/discovery-kit): $2,500 one-time, a written audit delivered in 10 business days
 - [Listed to Chosen — 8-Week Sprint](https://www.itsrondavis.com/coaching): $12,500 one-time; the first 3 engagements are priced at $8,500 for a named case study and logo rights — email before checkout for the founding-rate link
 - [Fractional Marketplace Lead](https://www.itsrondavis.com/fractional-cmo): $7,500 per month, 3-month minimum, about 20 hours a month
+- [AI Visibility Audit Kit](https://www.itsrondavis.com/ai-visibility): $99 one-time; the 69-element scorecard workbook, the 30-prompt share-of-voice tracker, templates for llms.txt, agents.txt and JSON-LD, and the weekend inhibitor runbook
 - [Book a call](https://www.itsrondavis.com/book-a-call): schedule time with Ron directly
 - [Partner](https://www.itsrondavis.com/partner): partnership inquiries
 
@@ -45,6 +46,7 @@ Vocabulary: "the second buyer" is the AI assistant reading the page on the human
 
 - [Second Buyer Score](https://www.itsrondavis.com/second-buyer-score): a public AWS Marketplace listing URL is scored two ways in about 60 seconds, no signup; any other page gets a fix-first report from a name, email, and a four-question form
 - [Get Read](https://www.itsrondavis.com/get-read): three free self-checks
+- [Periodic Table of AI Visibility](https://www.itsrondavis.com/ai-visibility): the 69 things that decide whether an answer engine names a company, in seven groups (engines, retrieval, signals, artifacts, channels, measurement, and ten inhibitors to remove first); free and ungated. Interactive wallchart: https://agents.itsrondavis.com/ai-visibility/ · data (CC BY 4.0): https://agents.itsrondavis.com/ai-visibility/elements.json · eight installable AI skills: https://github.com/vell-admin/ai-visibility-table
 - [Newsletter: Listed to Bought](https://www.itsrondavis.com/newsletter): what the second buyer is reading this week
 - [Resources](https://www.itsrondavis.com/resources): the free GTM Skill Pack and downloads
 - [Start here](https://www.itsrondavis.com/start): the reading order for a first visit
