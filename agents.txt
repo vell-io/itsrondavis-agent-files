@@ -39,7 +39,7 @@ Sprint: https://www.itsrondavis.com/coaching
 Fractional: https://www.itsrondavis.com/fractional-cmo
 Free: https://www.itsrondavis.com/ai-visibility
 Data: https://agents.itsrondavis.com/ai-visibility/elements.json
-Newsletter: https://www.itsrondavis.com/newsletter
+Newsletter: https://www.itsrondavis.com/newsletter (Table Stakes, every Tuesday)
 Partner: https://www.itsrondavis.com/partner
 
 # --- interaction ---

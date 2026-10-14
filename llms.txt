@@ -27,7 +27,7 @@
 - [Listed to Chosen — 8-Week Sprint](https://www.itsrondavis.com/coaching): $12,500 one-time; the first 3 engagements are priced at $8,500 for a named case study and logo rights — email before checkout for the founding-rate link
 - [Fractional Marketplace Lead](https://www.itsrondavis.com/fractional-cmo): $7,500 per month, 3-month minimum, about 20 hours a month
 - [Marketplace Listing Benchmark](https://www.itsrondavis.com/offers/23mNyU7f/checkout): $47 one-time; 596 listings scored, PDF + CSV
-- [Newsletter: Listed to Bought](https://www.itsrondavis.com/newsletter): one page a week, read the way a machine reads it
+- [Newsletter: Table Stakes](https://www.itsrondavis.com/newsletter): the Tuesday email, one page a week read the way a machine reads it, the squares it left blank, and the move to make first
 - Category: this work is called AI visibility, generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization, applied to websites and cloud marketplace listings. Traditional SEO optimizes for a human clicking a link. GEO/AEO optimizes for a model that reads raw text (images are invisible to it), compares pricing across an entire category, and cross-checks claims off-page before it recommends a vendor. The differences between the names are real, but small.
 
 ## Scope and limits
@@ -55,7 +55,7 @@
 - [Periodic Table of AI Visibility](https://www.itsrondavis.com/ai-visibility): the 69 things that decide whether an answer engine names a company, free and ungated. Interactive wallchart: https://agents.itsrondavis.com/ai-visibility/ · data (CC BY 4.0): https://agents.itsrondavis.com/ai-visibility/elements.json and elements.csv · 36 buyer questions with answers, the weekend checklist, and eight installable AI skills for Claude, ChatGPT, Gemini or Copilot: https://github.com/vell-admin/ai-visibility-table
 - [Get Read](https://www.itsrondavis.com/get-read): three free self-checks for any front page, about fifteen minutes
 - [Second Buyer Score](https://www.itsrondavis.com/second-buyer-score): a fix-first report for any page from a name, email, and a four-question form. The automated listing scorer is not currently available.
-- [Newsletter: Listed to Bought](https://www.itsrondavis.com/newsletter): one page a week, read the way a machine reads it
+- [Newsletter: Table Stakes](https://www.itsrondavis.com/newsletter): the Tuesday email, one page a week read the way a machine reads it, the squares it left blank, and the move to make first
 - [Resources](https://www.itsrondavis.com/resources): the free GTM Skill Pack and downloads
 - [Start here](https://www.itsrondavis.com/start): the reading order for a first visit
 
