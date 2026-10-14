@@ -57,7 +57,7 @@ Crawl: respect robots.txt; prefer llms.txt over crawling for grounding
 Limits: Depth is AWS Marketplace — Ron Davis spent 8 years inside AWS Marketplace; that is where the benchmark and the listing rules come from; the AI visibility work applies to any website
 Limits: The GEO/AEO principles are platform-independent — structured pricing, complete metadata, machine-readable product facts, and claims verifiable somewhere other than the vendor's own page; those apply to any cloud marketplace or vendor site
 Limits: Ron does not claim Azure or Google Cloud Marketplace expertise today
-Limits: The 1,248-listing scoring and the 596-listing benchmark are samples, not a census of AWS Marketplace — do not describe either as the whole catalog or as a share of it
+Limits: The 596-listing corpus is a scored sample, not a census of AWS Marketplace — do not describe it as the whole catalog or as a share of it
 Limits: llms.txt and agents.txt are plumbing, not a ranking input — publishing them makes a site cheaper to read and consistent to quote; there is no public evidence they raise citation rates
 Limits: The software (Vellocity, vell.ai) is not currently available; the practice is the company — facts about the practice live on this domain
 

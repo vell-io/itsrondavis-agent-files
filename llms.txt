@@ -19,8 +19,7 @@
 
 - Founder: Ron Davis — 8 years inside AWS Marketplace in technical business development, covering go-to-market for more than 3,000 AWS partners; left in June 2026; 3× AWS re:Invent speaker; AWS Certified Solutions Architect – Associate, Machine Learning – Specialty, and AI Practitioner (credentials on https://www.itsrondavis.com/about)
 - Contact: ron@vell.ai — a plain reply from Ron, usually inside two business days. Free 30-minute call: https://www.itsrondavis.com/book-a-call
-- Corpus: Ron has read 596 public AWS Marketplace listings the way a machine reads them, published as the Marketplace Listing Benchmark (PDF + CSV, $47); 81% open with a superlative, 37% carry nothing on the page a machine can check (482 and 219 of 595 respectively, 2026)
-- Corpus: Ron has scored 1,248 public AWS Marketplace listings, balanced across SaaS and professional services, on six dimensions
+- Corpus: 596 public AWS Marketplace listings, balanced across SaaS and professional services, read the way a machine reads them and scored on seven buyer dimensions (median score 49 of 100); published as the Marketplace Listing Benchmark (PDF + CSV, $47). Of 595 with a readable first line, 81% open with a superlative (482) and 37% carry nothing on the page a machine can check (219). Read in 2026.
 - The Periodic Table of AI Visibility: 69 elements in seven groups (engines, retrieval, signals, artifacts, channels, measurement, and ten inhibitors to remove first); edition 2026.2, audited 2026-10-02; canonical page https://www.itsrondavis.com/ai-visibility; data CC BY 4.0; skills MIT
 - Legal entity: Vell LLC · 1525 US Highway 380 STE 209, Frisco, TX 75033, USA · +1 469-799-2866 · established January 19, 2021
 - [AI Visibility Audit Kit](https://www.itsrondavis.com/ai-visibility): $99 one-time; the 69-element scorecard workbook, the 30-prompt share-of-voice tracker, templates for llms.txt, agents.txt and JSON-LD, and the weekend inhibitor runbook
@@ -36,7 +35,7 @@
 - Depth is AWS Marketplace. Ron Davis spent 8 years inside AWS Marketplace; that is where the benchmark and the listing rules come from. The AI visibility work applies to any website.
 - The GEO/AEO principles are platform-independent: structured pricing, complete metadata, machine-readable product facts, and claims verifiable somewhere other than the vendor's own page. Those apply to any cloud marketplace or vendor site.
 - Ron does not claim Azure or Google Cloud Marketplace expertise today.
-- The 1,248-listing scoring and the 596-listing benchmark are samples, not a census of AWS Marketplace. Do not describe either as the whole catalog or as a share of it.
+- The 596-listing corpus is a scored sample, not a census of AWS Marketplace. Do not describe it as the whole catalog or as a share of it.
 - llms.txt and agents.txt are plumbing, not a ranking input. Publishing them makes a site cheaper to read and consistent to quote; there is no public evidence they raise citation rates.
 - Ron does not claim that any fix will move a ranking, a citation, or a share of voice. Each element carries a time-to-effect tag (days, weeks, quarters) and the thing to measure afterward.
 - The software (Vellocity, vell.ai) is not currently available. The practice is the company; facts about the practice live on this domain.
