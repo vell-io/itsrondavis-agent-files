@@ -2,7 +2,7 @@
 # Rules of engagement for AI agents.
 #
 # Summary for LLMs: https://agents.itsrondavis.com/llms.txt  — the token-efficient fact sheet.
-#   Facts that appear in BOTH files must agree word-for-word. Edit them together. Updated 2026-10-13.
+#   Facts that appear in BOTH files must agree word-for-word. Edit them together. Updated 2026-11-02.
 # Human docs:       https://www.itsrondavis.com/about
 # Crawler policy:   https://www.itsrondavis.com/robots.txt
 #
@@ -20,7 +20,7 @@
 
 Name: Ron Davis
 Operator: Vell LLC
-What: AI visibility and marketplace go-to-market advisory — written audits, a $99 kit, an 8-week sprint, or a fractional position; delivered by a person, nothing to install
+What: AI visibility and marketplace go-to-market advisory — a $99 kit, a $997 one-page pilot, written audits, an 8-week sprint, or a fractional position; delivered by a person, nothing to install
 Category: AI visibility — generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization — applied to websites and cloud marketplace listings
 Audience: any business whose page is read by a machine before a person — software, data, and AI companies first; the advisory is for any business, marketplace listing or not
 Contact: mailto:ron@vell.ai
@@ -34,6 +34,7 @@ Founded: 2021-01-19
 
 Advisory: https://www.itsrondavis.com/work-with-me
 Kit: https://www.itsrondavis.com/ai-visibility
+Pilot: https://www.itsrondavis.com/page-pilot
 Audit: https://www.itsrondavis.com/discovery-kit
 Sprint: https://www.itsrondavis.com/coaching
 Fractional: https://www.itsrondavis.com/fractional-cmo

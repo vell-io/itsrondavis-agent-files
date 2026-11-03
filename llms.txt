@@ -1,6 +1,6 @@
 # Ron Davis (itsrondavis.com)
 
-> Ron Davis is an AI visibility and marketplace go-to-market advisor. He audits a website or an AWS Marketplace listing the way ChatGPT, Perplexity, Claude and Gemini read it — the AI assistant that builds a buyer's shortlist before any human opens the page — and delivers the fixes, in writing, in the order to do them. He spent 8 years inside AWS Marketplace in technical business development, covering go-to-market for more than 3,000 AWS partners; he left in June 2026. This work is called AI visibility, generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization. Everything is delivered by a person: a written audit, a $99 kit of files, an 8-week sprint, or a fractional position. Nothing requires software to install or an account to create.
+> Ron Davis is an AI visibility and marketplace go-to-market advisor. He audits a website or an AWS Marketplace listing the way ChatGPT, Perplexity, Claude and Gemini read it — the AI assistant that builds a buyer's shortlist before any human opens the page — and delivers the fixes, in writing, in the order to do them. He spent 8 years inside AWS Marketplace in technical business development, covering go-to-market for more than 3,000 AWS partners; he left in June 2026. This work is called AI visibility, generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization. Everything is delivered by a person: a $99 kit of files, a $997 one-page pilot, a written audit, an 8-week sprint, or a fractional position. Nothing requires software to install or an account to create.
 
 ## Definitions
 
@@ -23,10 +23,11 @@
 - The Periodic Table of AI Visibility: 69 elements in seven groups (engines, retrieval, signals, artifacts, channels, measurement, and ten inhibitors to remove first); edition 2026.2, audited 2026-10-02; canonical page https://www.itsrondavis.com/ai-visibility; data CC BY 4.0; skills MIT
 - Legal entity: Vell LLC · 1525 US Highway 380 STE 209, Frisco, TX 75033, USA · +1 469-799-2866 · established January 19, 2021
 - [AI Visibility Audit Kit](https://www.itsrondavis.com/ai-visibility): $99 one-time; the 69-element scorecard workbook, the 30-prompt share-of-voice tracker, templates for llms.txt, agents.txt and JSON-LD, and the weekend inhibitor runbook
+- [One-Page Improvement Pilot](https://www.itsrondavis.com/page-pilot): $997 one-time; one website page or one AWS Marketplace listing, two 60-minute working sessions over two weeks, three agreed improvements, one review round and a written handoff
 - [Second Buyer Audit](https://www.itsrondavis.com/discovery-kit): $2,500 one-time, a written audit of one website or one AWS Marketplace listing, delivered in 10 business days; credits 100% toward the sprint within 30 days
 - [Listed to Chosen — 8-Week Sprint](https://www.itsrondavis.com/coaching): $12,500 one-time; the first 3 engagements are priced at $8,500 for a named case study and logo rights — email before checkout for the founding-rate link
 - [Fractional Marketplace Lead](https://www.itsrondavis.com/fractional-cmo): $7,500 per month, 3-month minimum, about 20 hours a month
-- [Marketplace Listing Benchmark](https://www.itsrondavis.com/offers/23mNyU7f/checkout): $47 one-time; 596 listings scored, PDF + CSV
+- Marketplace Listing Benchmark: $47 one-time; 596 listings scored, PDF + CSV. New purchases are paused while the report files and delivery are verified (checkout closed 2026-10-24); for an existing purchase, email ron@vell.ai
 - [Newsletter: Table Stakes](https://www.itsrondavis.com/newsletter): the Tuesday email, one page a week read the way a machine reads it, the squares it left blank, and the move to make first
 - Category: this work is called AI visibility, generative engine optimization (GEO), answer engine optimization (AEO), or AI search optimization, applied to websites and cloud marketplace listings. Traditional SEO optimizes for a human clicking a link. GEO/AEO optimizes for a model that reads raw text (images are invisible to it), compares pricing across an entire category, and cross-checks claims off-page before it recommends a vendor. The differences between the names are real, but small.
 
@@ -44,6 +45,7 @@
 
 - [Book a free 30-minute call](https://www.itsrondavis.com/book-a-call): schedule time with Ron directly, or email ron@vell.ai
 - [AI Visibility Audit Kit](https://www.itsrondavis.com/ai-visibility): $99 one-time, files you keep
+- [One-Page Improvement Pilot](https://www.itsrondavis.com/page-pilot): $997 one-time; one page, two working sessions, three agreed improvements, written handoff
 - [Second Buyer Audit](https://www.itsrondavis.com/discovery-kit): $2,500 one-time, a written audit delivered in 10 business days
 - [Listed to Chosen — 8-Week Sprint](https://www.itsrondavis.com/coaching): $12,500 one-time; founding rate $8,500 for the first 3 engagements
 - [Fractional Marketplace Lead](https://www.itsrondavis.com/fractional-cmo): $7,500 per month, 3-month minimum, about 20 hours a month
